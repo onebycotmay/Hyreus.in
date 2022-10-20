@@ -1,0 +1,37 @@
+.component2-container {
+  width: 844px;
+  height: 392px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  margin-left: 546px;
+  padding-top: 93px;
+  margin-right: 545px;
+  padding-left: 78px;
+  padding-right: 78px;
+  flex-direction: column;
+  padding-bottom: 79px;
+  justify-content: center;
+}
+.component2-text {
+  color: #ffffff;
+  width: 543px;
+  height: 301px;
+  font-size: 150px;
+  font-family: Playfair Display;
+  padding-right: 1px;
+}
+.component2-text1 {
+  top: 74px;
+  left: 646px;
+  color: #8c25ff;
+  position: absolute;
+  font-size: 160px;
+}
+.component2-root-class-name {
+  top: 146px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+}

@@ -1,0 +1,38 @@
+.component4-container {
+  width: 100%;
+  height: 1872px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: #181818;
+}
+.component4-text {
+  color: rgb(255, 255, 255);
+  font-size: 0.75rem;
+  font-style: normal;
+  margin-top: var(--dl-space-space-unit);
+  font-family: Open Sans;
+  font-weight: 600;
+  line-height: 1.5;
+  margin-bottom: var(--dl-space-space-halfunit);
+  text-transform: none;
+  text-decoration: none;
+}
+.component4-textarea {
+  color: #ffffff;
+  width: 100%;
+  transition: 0.3s;
+  padding-top: var(--dl-space-space-halfunit);
+  border-color: #8c52ff;
+  padding-left: var(--dl-space-space-triplequarterunit);
+  border-radius: var(--dl-radius-radius-radius5);
+  padding-right: var(--dl-space-space-triplequarterunit);
+  padding-bottom: var(--dl-space-space-halfunit);
+  background-color: #383838;
+}
+.component4-textarea:focus {
+  outline: 0;
+  box-shadow: 0 0 0 2px #e9aede;
+  border-color: #e293d3ff;
+}
